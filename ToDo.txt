@@ -1,0 +1,15 @@
+Connecting real map data with Google Places API to show actual flower shops near you
+Adding user authentication (sign up / login)
+Building a backend with Supabase or Firebase for orders, subscriptions, and shop data
+Push notifications to remind users before their events
+A vendor dashboard where flower shops can manage their profiles and orders
+Stripe payments for the subscription checkout
+
+
+next step: 
+
+search in claude chat for: 
+ 
+Let me build this step by step. First, 
+we need to set up the Google Places integration, 
+then update the map screen to use real data.
